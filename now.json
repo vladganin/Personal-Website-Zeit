@@ -1,0 +1,1 @@
+{"version":2,"name":"Personal-Website-Zeit","builds":[{"src":"**/*.py","use":"@now/python@canary"},{"src":"css/**","use":"@now/static"}]}
